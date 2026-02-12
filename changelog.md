@@ -1,3 +1,12 @@
+
+
+
+
+# Changelog
+
+
+
+
 ## 0.0.406 - 2026-02-07
 
 - Add support for Claude Opus 4.6 Fast (Preview)
